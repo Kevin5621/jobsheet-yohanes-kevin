@@ -1,0 +1,676 @@
+Retailer	Retailer ID	Invoice Date	Region	State	City	Product	Price per Unit	Units Sold	Total Sales	Operating Profit	Operating Margin	Sales Method
+Foot Locker	1185732	1/1/2020	Northeast	New York	New York	Men's Street Footwear	50	1200	600000	300000	0.50	In-store
+Foot Locker	1185732	1/2/2020	Northeast	New York	New York	Men's Athletic Footwear	50	1000	500000	150000	0.30	In-store
+Foot Locker	1185732	1/6/2020	Northeast	New York	New York	Women's Apparel	50	1000	500000	125000	0.25	In-store
+Foot Locker	1185732	1/7/2020	Northeast	New York	New York	Men's Street Footwear	50	1250	625000	312500	0.50	In-store
+Foot Locker	1185732	1/8/2020	Northeast	New York	New York	Men's Athletic Footwear	50	900	450000	135000	0.30	Outlet
+Foot Locker	1185732	1/24/2020	Northeast	New York	New York	Women's Apparel	50	1000	500000	125000	0.25	Outlet
+Foot Locker	1185732	1/25/2020	Northeast	New York	New York	Men's Street Footwear	50	1220	610000	305000	0.50	Outlet
+Foot Locker	1185732	1/26/2020	Northeast	New York	New York	Men's Athletic Footwear	50	925	462500	138750	0.30	Outlet
+Foot Locker	1185732	1/30/2020	Northeast	New York	New York	Women's Apparel	50	950	475000	118750	0.25	Outlet
+Foot Locker	1185732	1/31/2020	Northeast	New York	New York	Men's Street Footwear	50	1200	600000	300000	0.50	Outlet
+Foot Locker	1185732	2/1/2020	Northeast	New York	New York	Men's Athletic Footwear	50	900	450000	135000	0.30	Outlet
+Foot Locker	1185732	2/5/2020	Northeast	New York	New York	Women's Apparel	50	950	475000	118750	0.25	Outlet
+Foot Locker	1185732	2/8/2020	Northeast	New York	New York	Women's Street Footwear	50	900	450000	157500	0.35	Outlet
+Foot Locker	1185732	2/9/2020	Northeast	New York	New York	Women's Athletic Footwear	50	850	425000	148750	0.35	Outlet
+Foot Locker	1185732	3/6/2020	Northeast	New York	New York	Women's Street Footwear	50	925	462500	161875	0.35	Outlet
+Foot Locker	1185732	3/7/2020	Northeast	New York	New York	Women's Athletic Footwear	50	900	450000	157500	0.35	Outlet
+Foot Locker	1185732	3/12/2020	Northeast	New York	New York	Women's Street Footwear	50	950	475000	166250	0.35	Outlet
+Foot Locker	1185732	3/13/2020	Northeast	New York	New York	Women's Athletic Footwear	50	900	450000	157500	0.35	Outlet
+Foot Locker	1185732	3/18/2020	Northeast	New York	New York	Women's Street Footwear	50	950	475000	166250	0.35	Outlet
+Foot Locker	1185732	3/31/2020	Northeast	New York	New York	Women's Athletic Footwear	50	925	462500	161875	0.35	Outlet
+Walmart	1185732	4/21/2020	Northeast	New York	New York	Women's Street Footwear	50	925	462500	161875	0.35	Outlet
+Walmart	1185732	4/22/2020	Northeast	New York	New York	Women's Athletic Footwear	50	900	450000	157500	0.35	Outlet
+Walmart	1197831	8/23/2020	South	Texas	Houston	Women's Apparel	50	1000	500000	250000	0.50	Outlet
+Walmart	1197831	8/29/2020	South	Texas	Houston	Women's Apparel	50	975	487500	243750	0.50	Outlet
+Walmart	1197831	9/4/2020	South	Texas	Houston	Women's Apparel	50	900	450000	225000	0.50	Outlet
+Walmart	1197831	9/7/2020	South	Texas	Houston	Women's Street Footwear	50	900	450000	157500	0.35	Outlet
+Walmart	1197831	9/8/2020	South	Texas	Houston	Women's Athletic Footwear	50	625	312500	140625	0.45	Outlet
+Walmart	1197831	9/13/2020	South	Texas	Houston	Women's Street Footwear	50	750	375000	131250	0.35	Outlet
+Walmart	1197831	9/14/2020	South	Texas	Houston	Women's Athletic Footwear	50	600	300000	135000	0.45	Outlet
+Walmart	1197831	10/22/2020	South	Texas	Houston	Women's Street Footwear	50	825	412500	144375	0.35	Outlet
+Walmart	1197831	10/23/2020	South	Texas	Houston	Women's Athletic Footwear	50	675	337500	151875	0.45	Outlet
+Walmart	1197831	10/28/2020	South	Texas	Houston	Women's Street Footwear	50	850	425000	148750	0.35	Outlet
+Walmart	1197831	10/29/2020	South	Texas	Houston	Women's Athletic Footwear	50	700	350000	157500	0.45	Outlet
+West Gear	1128299	11/2/2020	South	Texas	Houston	Men's Athletic Footwear	50	775	387500	77500	0.20	Outlet
+West Gear	1128299	11/3/2020	South	Texas	Houston	Women's Street Footwear	50	775	387500	135625	0.35	Outlet
+West Gear	1128299	11/4/2020	South	Texas	Houston	Women's Athletic Footwear	50	625	312500	93750	0.30	Outlet
+West Gear	1128299	11/6/2020	West	California	San Francisco	Women's Apparel	50	775	387500	58125	0.15	Outlet
+West Gear	1128299	11/8/2020	West	California	San Francisco	Men's Athletic Footwear	50	725	362500	72500	0.20	Outlet
+West Gear	1128299	11/9/2020	West	California	San Francisco	Women's Street Footwear	50	725	362500	126875	0.35	Outlet
+West Gear	1128299	11/10/2020	West	California	San Francisco	Women's Athletic Footwear	50	575	287500	86250	0.30	Outlet
+West Gear	1128299	11/12/2020	West	California	San Francisco	Women's Apparel	50	700	350000	52500	0.15	Outlet
+West Gear	1128299	11/13/2020	West	California	San Francisco	Men's Street Footwear	50	850	425000	148750	0.35	Outlet
+Kohl's	1189833	3/11/2021	West	California	Los Angeles	Men's Apparel	50	500	250000	137500	0.55	Outlet
+Kohl's	1189833	3/17/2021	West	California	Los Angeles	Men's Apparel	50	450	225000	123750	0.55	Outlet
+Kohl's	1189833	3/23/2021	West	California	Los Angeles	Men's Apparel	50	425	212500	116875	0.55	Outlet
+Kohl's	1189833	4/8/2021	West	California	Los Angeles	Men's Athletic Footwear	50	600	300000	75000	0.25	Outlet
+Kohl's	1189833	4/9/2021	West	California	Los Angeles	Women's Street Footwear	50	625	312500	125000	0.40	Outlet
+Kohl's	1189833	4/11/2021	West	California	Los Angeles	Men's Apparel	50	425	212500	116875	0.55	Outlet
+Kohl's	1189833	4/14/2021	West	California	Los Angeles	Men's Athletic Footwear	50	650	325000	81250	0.25	Outlet
+Kohl's	1189833	4/15/2021	West	California	Los Angeles	Women's Street Footwear	50	650	325000	130000	0.40	Outlet
+Kohl's	1189833	4/17/2021	West	California	Los Angeles	Men's Apparel	50	450	225000	123750	0.55	Outlet
+Kohl's	1189833	4/20/2021	West	California	Los Angeles	Men's Athletic Footwear	50	750	375000	93750	0.25	Outlet
+Kohl's	1189833	4/21/2021	West	California	Los Angeles	Women's Street Footwear	50	750	375000	150000	0.40	Outlet
+Kohl's	1189833	4/23/2021	West	California	Los Angeles	Men's Apparel	50	500	250000	137500	0.55	Outlet
+Kohl's	1189833	4/26/2021	West	California	Los Angeles	Men's Athletic Footwear	50	800	400000	100000	0.25	Outlet
+Kohl's	1189833	4/27/2021	West	California	Los Angeles	Women's Street Footwear	50	750	375000	150000	0.40	Outlet
+Kohl's	1189833	4/29/2021	West	California	Los Angeles	Men's Apparel	50	700	350000	192500	0.55	Outlet
+Kohl's	1189833	5/1/2021	West	California	Los Angeles	Men's Street Footwear	50	900	450000	180000	0.40	Outlet
+Kohl's	1189833	5/3/2021	West	California	Los Angeles	Women's Street Footwear	50	725	362500	145000	0.40	Outlet
+Kohl's	1189833	5/4/2021	West	California	Los Angeles	Women's Athletic Footwear	50	675	337500	118125	0.35	Outlet
+Kohl's	1189833	5/7/2021	West	California	Los Angeles	Men's Street Footwear	50	850	425000	170000	0.40	Outlet
+Kohl's	1189833	5/9/2021	West	California	Los Angeles	Women's Street Footwear	50	700	350000	140000	0.40	Outlet
+Kohl's	1189833	5/10/2021	West	California	Los Angeles	Women's Athletic Footwear	50	650	325000	113750	0.35	Outlet
+Kohl's	1189833	5/13/2021	West	California	Los Angeles	Men's Street Footwear	50	800	400000	160000	0.40	Outlet
+Kohl's	1189833	5/15/2021	West	California	Los Angeles	Women's Street Footwear	50	650	325000	130000	0.40	Outlet
+Kohl's	1189833	5/16/2021	West	California	Los Angeles	Women's Athletic Footwear	50	625	312500	109375	0.35	Outlet
+Kohl's	1189833	5/19/2021	West	California	Los Angeles	Men's Street Footwear	50	825	412500	165000	0.40	Outlet
+Kohl's	1189833	5/21/2021	West	California	Los Angeles	Women's Street Footwear	50	675	337500	135000	0.40	Outlet
+Kohl's	1189833	5/22/2021	West	California	Los Angeles	Women's Athletic Footwear	50	650	325000	113750	0.35	Outlet
+Kohl's	1189833	5/25/2021	West	California	Los Angeles	Men's Street Footwear	50	900	450000	180000	0.40	Outlet
+Kohl's	1189833	5/27/2021	West	California	Los Angeles	Women's Street Footwear	50	700	350000	140000	0.40	Outlet
+Kohl's	1189833	5/28/2021	West	California	Los Angeles	Women's Athletic Footwear	50	700	350000	122500	0.35	Outlet
+Foot Locker	1185732	6/12/2021	Midwest	Illinois	Chicago	Men's Street Footwear	50	495	247500	99000	0.40	Outlet
+Foot Locker	1185732	6/13/2021	Midwest	Illinois	Chicago	Men's Athletic Footwear	50	200	100000	35000	0.35	Outlet
+Foot Locker	1185732	6/17/2021	Midwest	Illinois	Chicago	Women's Apparel	50	225	112500	56250	0.50	Outlet
+Foot Locker	1185732	6/18/2021	Midwest	Illinois	Chicago	Men's Street Footwear	50	450	225000	90000	0.40	Outlet
+Foot Locker	1185732	6/19/2021	Midwest	Illinois	Chicago	Men's Athletic Footwear	50	150	75000	26250	0.35	Outlet
+Foot Locker	1185732	6/23/2021	Midwest	Illinois	Chicago	Women's Apparel	50	225	112500	56250	0.50	Outlet
+Foot Locker	1185732	6/26/2021	Midwest	Illinois	Chicago	Women's Street Footwear	50	175	87500	30625	0.35	Outlet
+Foot Locker	1185732	6/27/2021	Midwest	Illinois	Chicago	Women's Athletic Footwear	50	100	50000	20000	0.40	Outlet
+Foot Locker	1185732	6/30/2021	Midwest	Illinois	Chicago	Men's Street Footwear	50	500	250000	100000	0.40	Outlet
+Foot Locker	1185732	7/4/2021	Midwest	Illinois	Chicago	Men's Apparel	50	175	87500	30625	0.35	Outlet
+Foot Locker	1185732	7/6/2021	Midwest	Illinois	Chicago	Men's Street Footwear	50	575	287500	115000	0.40	Outlet
+Foot Locker	1185732	7/10/2021	Midwest	Illinois	Chicago	Men's Apparel	50	225	112500	39375	0.35	Outlet
+Foot Locker	1185732	7/12/2021	Midwest	Illinois	Chicago	Men's Street Footwear	50	550	275000	110000	0.40	Outlet
+Foot Locker	1185732	7/16/2021	Midwest	Illinois	Chicago	Men's Apparel	50	200	100000	35000	0.35	Outlet
+Foot Locker	1185732	7/18/2021	Midwest	Illinois	Chicago	Men's Street Footwear	50	500	250000	100000	0.40	Outlet
+Foot Locker	1185732	7/22/2021	Midwest	Illinois	Chicago	Men's Apparel	50	175	87500	30625	0.35	Outlet
+Foot Locker	1185732	7/25/2021	Midwest	Illinois	Chicago	Men's Athletic Footwear	50	250	125000	43750	0.35	Outlet
+Foot Locker	1185732	7/26/2021	Midwest	Illinois	Chicago	Women's Street Footwear	50	150	75000	26250	0.35	Outlet
+Foot Locker	1185732	7/27/2021	Midwest	Illinois	Chicago	Women's Athletic Footwear	50	125	62500	25000	0.40	Outlet
+Foot Locker	1185732	7/31/2021	Midwest	Illinois	Chicago	Men's Athletic Footwear	50	250	125000	43750	0.35	Outlet
+Foot Locker	1185732	8/1/2021	Midwest	Illinois	Chicago	Women's Street Footwear	50	195	97500	34125	0.35	Outlet
+Foot Locker	1185732	8/2/2021	Midwest	Illinois	Chicago	Women's Athletic Footwear	50	175	87500	35000	0.40	Outlet
+Foot Locker	1185732	8/6/2021	Midwest	Illinois	Chicago	Men's Athletic Footwear	50	300	150000	52500	0.35	Outlet
+Foot Locker	1185732	8/7/2021	Midwest	Illinois	Chicago	Women's Street Footwear	50	250	125000	43750	0.35	Outlet
+Foot Locker	1185732	8/8/2021	Midwest	Illinois	Chicago	Women's Athletic Footwear	50	200	100000	40000	0.40	Outlet
+Sports Direct	1197831	9/8/2021	South	Texas	Dallas	Men's Apparel	50	450	225000	67500	0.30	Outlet
+Sports Direct	1197831	9/11/2021	South	Texas	Dallas	Men's Athletic Footwear	50	800	400000	140000	0.35	Outlet
+Sports Direct	1197831	9/14/2021	South	Texas	Dallas	Men's Apparel	50	500	250000	75000	0.30	Outlet
+Sports Direct	1197831	9/17/2021	South	Texas	Dallas	Men's Athletic Footwear	50	825	412500	165000	0.40	Outlet
+Sports Direct	1197831	9/20/2021	South	Texas	Dallas	Men's Apparel	50	575	287500	100625	0.35	Outlet
+Sports Direct	1197831	9/22/2021	South	Texas	Dallas	Men's Street Footwear	50	800	400000	160000	0.40	Outlet
+Sports Direct	1197831	9/24/2021	South	Texas	Dallas	Women's Street Footwear	50	975	487500	195000	0.40	Outlet
+Sports Direct	1197831	9/25/2021	South	Texas	Dallas	Women's Athletic Footwear	50	525	262500	131250	0.50	Outlet
+Sports Direct	1197831	10/3/2021	South	Texas	Dallas	Women's Apparel	50	675	337500	185625	0.55	Outlet
+Sports Direct	1197831	10/9/2021	South	Texas	Dallas	Women's Apparel	50	575	287500	158125	0.55	Outlet
+Foot Locker	1185732	11/3/2021	Northeast	Pennsylvania	Philadelphia	Men's Street Footwear	50	445	222500	122375	0.55	Outlet
+Foot Locker	1185732	11/4/2021	Northeast	Pennsylvania	Philadelphia	Men's Athletic Footwear	50	150	75000	26250	0.35	Outlet
+Foot Locker	1185732	11/8/2021	Northeast	Pennsylvania	Philadelphia	Women's Apparel	50	175	87500	21875	0.25	Outlet
+Foot Locker	1185732	11/9/2021	Northeast	Pennsylvania	Philadelphia	Men's Street Footwear	50	450	225000	112500	0.50	Outlet
+Foot Locker	1185732	11/10/2021	Northeast	Pennsylvania	Philadelphia	Men's Athletic Footwear	50	150	75000	22500	0.30	Outlet
+Foot Locker	1185732	11/14/2021	Northeast	Pennsylvania	Philadelphia	Women's Apparel	50	200	100000	25000	0.25	Outlet
+Foot Locker	1185732	12/10/2021	Northeast	Pennsylvania	Philadelphia	Men's Athletic Footwear	50	275	137500	41250	0.30	Outlet
+Foot Locker	1185732	12/16/2021	Northeast	Pennsylvania	Philadelphia	Men's Athletic Footwear	50	225	112500	33750	0.30	Outlet
+Foot Locker	1185732	12/17/2021	Northeast	Pennsylvania	Philadelphia	Women's Street Footwear	50	125	62500	21875	0.35	Outlet
+Foot Locker	1185732	12/18/2021	Northeast	Pennsylvania	Philadelphia	Women's Athletic Footwear	50	100	50000	17500	0.35	Outlet
+West Gear	1128299	1/6/2020	West	Nevada	Las Vegas	Men's Apparel	50	250	125000	68750	0.55	Outlet
+West Gear	1128299	1/12/2020	West	Nevada	Las Vegas	Men's Apparel	50	200	100000	55000	0.55	Outlet
+West Gear	1128299	3/28/2020	West	Colorado	Denver	Men's Athletic Footwear	50	400	200000	40000	0.20	In-store
+West Gear	1128299	5/27/2020	West	Colorado	Denver	Men's Athletic Footwear	50	450	225000	56250	0.25	In-store
+West Gear	1128299	5/28/2020	West	Colorado	Denver	Women's Street Footwear	50	450	225000	56250	0.25	In-store
+West Gear	1128299	5/29/2020	West	Colorado	Denver	Women's Athletic Footwear	50	300	150000	45000	0.30	In-store
+West Gear	1128299	5/31/2020	West	Washington	Seattle	Women's Apparel	50	500	250000	50000	0.20	In-store
+West Gear	1128299	6/2/2020	West	Washington	Seattle	Men's Athletic Footwear	50	450	225000	56250	0.25	In-store
+West Gear	1128299	6/3/2020	West	Washington	Seattle	Women's Street Footwear	50	450	225000	56250	0.25	In-store
+West Gear	1128299	6/4/2020	West	Washington	Seattle	Women's Athletic Footwear	50	300	150000	45000	0.30	In-store
+West Gear	1128299	6/6/2020	West	Washington	Seattle	Women's Apparel	50	425	212500	42500	0.20	In-store
+West Gear	1128299	6/7/2020	West	Washington	Seattle	Men's Street Footwear	50	575	287500	86250	0.30	In-store
+West Gear	1185732	4/24/2020	Southeast	Florida	Miami	Women's Street Footwear	50	750	375000	93750	0.25	In-store
+West Gear	1185732	4/24/2020	Southeast	Florida	Miami	Women's Athletic Footwear	50	700	350000	105000	0.30	In-store
+West Gear	1185732	9/7/2020	Southeast	Florida	Miami	Women's Street Footwear	50	800	400000	100000	0.25	In-store
+West Gear	1185732	9/8/2020	Southeast	Florida	Miami	Women's Athletic Footwear	50	775	387500	116250	0.30	In-store
+Foot Locker	1185732	9/24/2020	Southeast	Florida	Miami	Men's Athletic Footwear	50	850	425000	148750	0.35	In-store
+Sports Direct	1185732	9/30/2020	Southeast	Florida	Miami	Men's Athletic Footwear	50	825	412500	144375	0.35	In-store
+Sports Direct	1185732	10/1/2020	Southeast	Florida	Miami	Women's Street Footwear	50	725	362500	90625	0.25	In-store
+Sports Direct	1185732	10/2/2020	Southeast	Florida	Miami	Women's Athletic Footwear	50	700	350000	105000	0.30	In-store
+Sports Direct	1185732	10/6/2020	Southeast	Florida	Miami	Men's Athletic Footwear	50	800	400000	140000	0.35	In-store
+Sports Direct	1185732	10/7/2020	Southeast	Florida	Miami	Women's Street Footwear	50	745	372500	93125	0.25	In-store
+Sports Direct	1185732	10/8/2020	Southeast	Florida	Miami	Women's Athletic Footwear	50	775	387500	116250	0.30	In-store
+Foot Locker	1185732	11/2/2020	Midwest	Minnesota	Minneapolis	Men's Apparel	50	75	37500	11250	0.30	In-store
+Foot Locker	1185732	11/8/2020	Midwest	Minnesota	Minneapolis	Men's Apparel	50	50	25000	7500	0.30	In-store
+Foot Locker	1185732	11/10/2020	Midwest	Minnesota	Minneapolis	Men's Street Footwear	50	445	222500	77875	0.35	In-store
+Foot Locker	1185732	11/20/2020	Midwest	Minnesota	Minneapolis	Men's Apparel	50	150	75000	22500	0.30	Outlet
+Foot Locker	1185732	11/22/2020	Midwest	Minnesota	Minneapolis	Men's Street Footwear	50	550	275000	96250	0.35	Outlet
+Foot Locker	1185732	11/26/2020	Midwest	Minnesota	Minneapolis	Men's Apparel	50	200	100000	30000	0.30	Outlet
+Foot Locker	1185732	11/28/2020	Midwest	Minnesota	Minneapolis	Men's Street Footwear	50	525	262500	91875	0.35	Outlet
+Foot Locker	1185732	12/3/2020	Midwest	Minnesota	Minneapolis	Women's Apparel	50	325	162500	73125	0.45	Outlet
+Foot Locker	1185732	12/15/2020	Midwest	Minnesota	Minneapolis	Women's Apparel	50	200	100000	45000	0.45	Outlet
+Foot Locker	1185732	12/16/2020	Midwest	Minnesota	Minneapolis	Men's Street Footwear	50	350	175000	61250	0.35	Outlet
+Kohl's	1189833	1/1/2021	Midwest	Montana	Billings	Men's Apparel	50	275	137500	82500	0.60	Outlet
+Kohl's	1189833	1/7/2021	Midwest	Montana	Billings	Men's Apparel	50	225	112500	67500	0.60	Outlet
+Kohl's	1189833	1/13/2021	Midwest	Montana	Billings	Men's Apparel	50	200	100000	60000	0.60	Outlet
+Kohl's	1189833	2/10/2021	Midwest	Montana	Billings	Women's Street Footwear	50	500	250000	112500	0.45	Outlet
+Kohl's	1189833	2/15/2021	Midwest	Montana	Billings	Men's Athletic Footwear	50	600	300000	90000	0.30	Outlet
+Kohl's	1189833	2/21/2021	Midwest	Montana	Billings	Men's Athletic Footwear	50	550	275000	82500	0.30	Outlet
+Kohl's	1189833	3/5/2021	Midwest	Montana	Billings	Men's Athletic Footwear	50	675	337500	101250	0.30	Outlet
+Sports Direct	1197831	4/14/2021	South	Tennessee	Knoxville	Women's Apparel	50	875	437500	240625	0.55	Outlet
+Sports Direct	1197831	4/23/2021	South	Tennessee	Knoxville	Women's Street Footwear	50	950	475000	213750	0.45	Outlet
+Sports Direct	1197831	4/25/2021	South	Tennessee	Knoxville	Men's Apparel	50	475	237500	95000	0.40	Outlet
+Sports Direct	1197831	4/27/2021	South	Tennessee	Knoxville	Men's Street Footwear	50	675	337500	151875	0.45	Outlet
+Sports Direct	1197831	4/28/2021	South	Tennessee	Knoxville	Men's Athletic Footwear	50	625	312500	140625	0.45	Outlet
+Sports Direct	1197831	5/1/2021	South	Tennessee	Knoxville	Men's Apparel	50	400	200000	80000	0.40	Outlet
+Foot Locker	1185732	6/6/2021	Midwest	Nebraska	Omaha	Men's Apparel	50	50	25000	8750	0.35	Outlet
+Foot Locker	1185732	6/18/2021	Midwest	Nebraska	Omaha	Men's Apparel	50	50	25000	8750	0.35	Outlet
+Foot Locker	1185732	6/25/2021	Midwest	Nebraska	Omaha	Women's Apparel	50	325	162500	81250	0.50	Outlet
+Foot Locker	1185732	7/1/2021	Midwest	Nebraska	Omaha	Women's Apparel	50	350	175000	87500	0.50	Outlet
+Foot Locker	1185732	7/24/2021	Midwest	Nebraska	Omaha	Men's Apparel	50	100	50000	17500	0.35	Outlet
+Foot Locker	1185732	7/26/2021	Midwest	Nebraska	Omaha	Men's Street Footwear	50	450	225000	90000	0.40	Outlet
+Foot Locker	1185732	7/30/2021	Midwest	Nebraska	Omaha	Men's Apparel	50	150	75000	26250	0.35	Outlet
+Sports Direct	1197831	8/29/2021	South	Alabama	Birmingham	Men's Apparel	50	400	200000	80000	0.40	Outlet
+Sports Direct	1197831	9/1/2021	South	Alabama	Birmingham	Men's Athletic Footwear	50	750	375000	168750	0.45	Outlet
+Sports Direct	1197831	9/4/2021	South	Alabama	Birmingham	Men's Apparel	50	500	250000	100000	0.40	Outlet
+Sports Direct	1197831	9/7/2021	South	Alabama	Birmingham	Men's Athletic Footwear	50	825	412500	206250	0.50	Outlet
+Sports Direct	1197831	9/10/2021	South	Alabama	Birmingham	Men's Apparel	50	525	262500	118125	0.45	Outlet
+Sports Direct	1197831	9/15/2021	South	Alabama	Birmingham	Women's Athletic Footwear	50	425	212500	127500	0.60	Outlet
+Sports Direct	1197831	10/4/2021	South	Alabama	Birmingham	Men's Apparel	50	425	212500	95625	0.45	Outlet
+Amazon	1185732	10/16/2021	Northeast	Maine	Portland	Men's Apparel	50	150	75000	18750	0.25	Outlet
+Amazon	1185732	10/22/2021	Northeast	Maine	Portland	Men's Apparel	50	150	75000	18750	0.25	Outlet
+Amazon	1185732	10/28/2021	Northeast	Maine	Portland	Men's Apparel	50	100	50000	12500	0.25	Outlet
+Amazon	1185732	11/3/2021	Northeast	Maine	Portland	Men's Apparel	50	75	37500	9375	0.25	Outlet
+Amazon	1185732	11/6/2021	Northeast	Maine	Portland	Men's Athletic Footwear	50	200	100000	35000	0.35	Outlet
+Amazon	1185732	11/12/2021	Northeast	Maine	Portland	Men's Athletic Footwear	50	275	137500	48125	0.35	Outlet
+Amazon	1185732	11/18/2021	Northeast	Maine	Portland	Men's Athletic Footwear	50	300	150000	52500	0.35	Outlet
+Amazon	1185732	12/22/2021	Northeast	Maine	Portland	Men's Athletic Footwear	50	300	150000	52500	0.35	Outlet
+Amazon	1185732	12/28/2021	Northeast	Maine	Portland	Men's Athletic Footwear	50	250	125000	43750	0.35	Outlet
+Amazon	1185732	2/22/2021	West	Alaska	Anchorage	Women's Athletic Footwear	50	175	87500	21875	0.25	Outlet
+Amazon	1185732	3/20/2021	West	Alaska	Anchorage	Women's Athletic Footwear	50	125	62500	15625	0.25	Outlet
+Amazon	1185732	4/21/2021	West	Alaska	Anchorage	Women's Athletic Footwear	50	150	75000	18750	0.25	Outlet
+Amazon	1185732	4/21/2021	West	Alaska	Anchorage	Women's Apparel	50	300	150000	45000	0.30	Outlet
+Foot Locker	1128299	1/10/2021	West	Alaska	Anchorage	Men's Apparel	50	175	87500	13125	0.15	Outlet
+Foot Locker	1128299	2/10/2021	West	Hawaii	Honolulu	Men's Apparel	50	150	75000	11250	0.15	Outlet
+Foot Locker	1128299	4/10/2021	West	Hawaii	Honolulu	Women's Athletic Footwear	50	250	125000	31250	0.25	Outlet
+Sports Direct	1128299	1/17/2021	West	Hawaii	Honolulu	Men's Athletic Footwear	50	425	212500	53125	0.25	Outlet
+Sports Direct	1128299	1/17/2021	West	Hawaii	Honolulu	Women's Street Footwear	50	425	212500	63750	0.30	Outlet
+Sports Direct	1128299	1/17/2021	West	Hawaii	Honolulu	Women's Athletic Footwear	50	275	137500	41250	0.30	Outlet
+Sports Direct	1128299	1/17/2021	West	Hawaii	Honolulu	Women's Apparel	50	475	237500	106875	0.45	Outlet
+Sports Direct	1128299	2/17/2021	West	Hawaii	Honolulu	Men's Athletic Footwear	50	425	212500	53125	0.25	Outlet
+Sports Direct	1128299	2/17/2021	West	Hawaii	Honolulu	Women's Street Footwear	50	425	212500	63750	0.30	Outlet
+Sports Direct	1128299	2/17/2021	Southeast	Florida	Orlando	Women's Athletic Footwear	50	275	137500	41250	0.30	Outlet
+Sports Direct	1128299	2/17/2021	Southeast	Florida	Orlando	Women's Apparel	50	400	200000	90000	0.45	Outlet
+Sports Direct	1128299	3/16/2021	Southeast	Florida	Orlando	Men's Street Footwear	50	550	275000	82500	0.30	Outlet
+Walmart	1128299	10/17/2021	Southeast	Florida	Orlando	Men's Street Footwear	50	400	200000	60000	0.30	In-store
+West Gear	1185732	5/8/2021	Northeast	New York	Albany	Women's Street Footwear	50	550	275000	68750	0.25	In-store
+West Gear	1185732	5/8/2021	Northeast	New York	Albany	Women's Athletic Footwear	50	500	250000	75000	0.30	In-store
+West Gear	1185732	6/10/2021	Northeast	New York	Albany	Women's Street Footwear	50	600	300000	75000	0.25	In-store
+West Gear	1185732	6/10/2021	Northeast	New York	Albany	Women's Athletic Footwear	50	575	287500	86250	0.30	In-store
+West Gear	1185732	9/8/2021	Northeast	New York	Albany	Men's Athletic Footwear	50	650	325000	113750	0.35	In-store
+West Gear	1185732	10/10/2021	Northeast	New York	Albany	Men's Athletic Footwear	50	625	312500	109375	0.35	In-store
+West Gear	1185732	10/10/2021	Northeast	New York	Albany	Women's Street Footwear	50	525	262500	65625	0.25	In-store
+West Gear	1185732	10/10/2021	Northeast	New York	Albany	Women's Athletic Footwear	50	500	250000	75000	0.30	In-store
+West Gear	1185732	11/9/2021	Northeast	New York	Albany	Men's Athletic Footwear	50	600	300000	105000	0.35	In-store
+West Gear	1185732	11/9/2021	Northeast	New York	Albany	Women's Street Footwear	50	545	272500	68125	0.25	In-store
+West Gear	1185732	11/9/2021	Northeast	New York	Albany	Women's Athletic Footwear	50	575	287500	86250	0.30	In-store
+Kohl's	1185732	1/14/2021	Northeast	New York	Albany	Men's Apparel	50	500	250000	75000	0.30	In-store
+Kohl's	1185732	2/12/2021	West	Wyoming	Cheyenne	Men's Apparel	50	500	250000	75000	0.30	In-store
+Kohl's	1185732	3/10/2021	West	Wyoming	Cheyenne	Men's Apparel	50	450	225000	67500	0.30	In-store
+Kohl's	1185732	4/11/2021	West	Wyoming	Cheyenne	Men's Apparel	50	425	212500	63750	0.30	In-store
+Kohl's	1185732	5/10/2021	West	Wyoming	Cheyenne	Men's Street Footwear	50	820	410000	205000	0.50	In-store
+Kohl's	1185732	5/10/2021	West	Wyoming	Cheyenne	Men's Apparel	50	475	237500	71250	0.30	In-store
+Kohl's	1185732	6/12/2021	West	Wyoming	Cheyenne	Men's Street Footwear	50	850	425000	212500	0.50	In-store
+Kohl's	1185732	6/12/2021	West	Wyoming	Cheyenne	Men's Apparel	50	500	250000	75000	0.30	In-store
+Kohl's	1185732	7/10/2021	West	Wyoming	Cheyenne	Men's Street Footwear	50	875	437500	218750	0.50	In-store
+Kohl's	1185732	7/10/2021	West	Wyoming	Cheyenne	Men's Apparel	50	525	262500	78750	0.30	In-store
+Kohl's	1185732	8/11/2021	West	Wyoming	Cheyenne	Men's Street Footwear	50	850	425000	212500	0.50	In-store
+Kohl's	1185732	8/11/2021	West	Wyoming	Cheyenne	Men's Apparel	50	500	250000	75000	0.30	In-store
+Kohl's	1185732	9/10/2021	West	Wyoming	Cheyenne	Men's Street Footwear	50	800	400000	200000	0.50	In-store
+Kohl's	1185732	9/10/2021	West	Wyoming	Cheyenne	Men's Apparel	50	500	250000	75000	0.30	In-store
+Foot Locker	1128299	3/23/2021	Southeast	Virginia	Richmond	Men's Athletic Footwear	50	325	162500	56875	0.35	In-store
+Foot Locker	1128299	3/23/2021	Southeast	Virginia	Richmond	Women's Athletic Footwear	50	250	125000	43750	0.35	In-store
+Foot Locker	1128299	3/23/2021	Southeast	Virginia	Richmond	Women's Apparel	50	300	150000	45000	0.30	In-store
+Foot Locker	1128299	4/24/2021	Southeast	Virginia	Richmond	Men's Apparel	50	125	62500	25000	0.40	In-store
+Foot Locker	1128299	5/25/2021	Southeast	Virginia	Richmond	Men's Street Footwear	50	500	250000	87500	0.35	In-store
+Foot Locker	1128299	5/25/2021	Southeast	Virginia	Richmond	Women's Athletic Footwear	50	275	137500	48125	0.35	In-store
+Foot Locker	1128299	9/25/2021	Southeast	Virginia	Richmond	Men's Street Footwear	50	450	225000	78750	0.35	In-store
+Foot Locker	1128299	9/25/2021	Southeast	Virginia	Richmond	Women's Street Footwear	50	250	125000	43750	0.35	In-store
+Foot Locker	1128299	9/25/2021	Southeast	Virginia	Richmond	Women's Athletic Footwear	50	200	100000	35000	0.35	In-store
+Foot Locker	1128299	10/24/2021	Southeast	Virginia	Richmond	Women's Street Footwear	50	350	175000	61250	0.35	In-store
+Foot Locker	1128299	11/24/2021	Southeast	Virginia	Richmond	Men's Athletic Footwear	50	650	325000	113750	0.35	In-store
+Sports Direct	1185732	4/16/2021	Midwest	Michigan	Detroit	Men's Apparel	50	400	200000	80000	0.40	In-store
+Sports Direct	1185732	5/15/2021	Midwest	Michigan	Detroit	Men's Street Footwear	50	795	397500	198750	0.50	In-store
+Sports Direct	1185732	5/15/2021	Midwest	Michigan	Detroit	Men's Athletic Footwear	50	500	250000	100000	0.40	In-store
+Sports Direct	1185732	6/17/2021	Midwest	Michigan	Detroit	Men's Athletic Footwear	50	575	287500	115000	0.40	In-store
+Sports Direct	1185732	7/15/2021	Midwest	Michigan	Detroit	Women's Street Footwear	50	575	287500	86250	0.30	In-store
+Sports Direct	1185732	7/15/2021	Midwest	Michigan	Detroit	Women's Athletic Footwear	50	525	262500	91875	0.35	In-store
+Sports Direct	1185732	8/16/2021	Midwest	Michigan	Detroit	Women's Apparel	50	675	337500	185625	0.55	In-store
+Sports Direct	1185732	9/15/2021	Midwest	Michigan	Detroit	Women's Apparel	50	575	287500	158125	0.55	In-store
+Sports Direct	1185732	10/17/2021	Midwest	Michigan	Detroit	Men's Street Footwear	50	750	375000	187500	0.50	In-store
+Sports Direct	1185732	10/17/2021	Midwest	Michigan	Detroit	Men's Apparel	50	400	200000	80000	0.40	In-store
+Sports Direct	1185732	11/16/2021	Midwest	Michigan	Detroit	Men's Street Footwear	50	675	337500	168750	0.50	In-store
+Sports Direct	1185732	12/15/2021	Midwest	Michigan	Detroit	Men's Athletic Footwear	50	650	325000	130000	0.40	In-store
+Foot Locker	1185732	12/15/2021	Midwest	Michigan	Detroit	Women's Street Footwear	50	600	300000	90000	0.30	In-store
+Foot Locker	1185732	12/15/2021	Midwest	Michigan	Detroit	Women's Athletic Footwear	50	550	275000	96250	0.35	In-store
+Foot Locker	1185732	5/19/2021	Midwest	Missouri	St. Louis	Women's Apparel	50	350	175000	87500	0.50	In-store
+Foot Locker	1185732	11/18/2021	Midwest	Missouri	St. Louis	Women's Apparel	50	400	200000	100000	0.50	In-store
+West Gear	1185732	12/17/2021	Midwest	Missouri	St. Louis	Women's Apparel	50	450	225000	112500	0.50	In-store
+West Gear	1128299	3/23/2021	West	Oregon	Portland	Men's Athletic Footwear	50	325	162500	56875	0.35	In-store
+West Gear	1128299	3/23/2021	West	Oregon	Portland	Women's Athletic Footwear	50	250	125000	43750	0.35	In-store
+West Gear	1128299	3/23/2021	West	Oregon	Portland	Women's Apparel	50	300	150000	45000	0.30	In-store
+West Gear	1128299	4/24/2021	West	Oregon	Portland	Men's Apparel	50	125	62500	25000	0.40	In-store
+West Gear	1128299	5/25/2021	West	Oregon	Portland	Men's Street Footwear	50	500	250000	87500	0.35	In-store
+West Gear	1128299	5/25/2021	West	Oregon	Portland	Women's Athletic Footwear	50	275	137500	48125	0.35	In-store
+West Gear	1128299	9/25/2021	West	Oregon	Portland	Men's Street Footwear	50	450	225000	78750	0.35	In-store
+West Gear	1128299	9/25/2021	West	Oregon	Portland	Women's Street Footwear	50	250	125000	43750	0.35	In-store
+West Gear	1128299	9/25/2021	West	Oregon	Portland	Women's Athletic Footwear	50	200	100000	35000	0.35	In-store
+West Gear	1128299	10/24/2021	West	Oregon	Portland	Women's Street Footwear	50	350	175000	61250	0.35	In-store
+West Gear	1128299	11/24/2021	West	Oregon	Portland	Men's Athletic Footwear	50	650	325000	113750	0.35	In-store
+West Gear	1128299	1/17/2021	West	Oregon	Portland	Men's Apparel	50	200	100000	45000	0.45	In-store
+West Gear	1128299	2/17/2021	South	Louisiana	New Orleans	Men's Apparel	50	175	87500	39375	0.45	In-store
+West Gear	1128299	4/17/2021	South	Louisiana	New Orleans	Men's Street Footwear	50	525	262500	105000	0.40	In-store
+West Gear	1128299	5/18/2021	South	Louisiana	New Orleans	Men's Athletic Footwear	50	400	200000	80000	0.40	In-store
+West Gear	1128299	5/18/2021	South	Louisiana	New Orleans	Women's Street Footwear	50	400	200000	80000	0.40	In-store
+West Gear	1128299	9/18/2021	South	Louisiana	New Orleans	Men's Athletic Footwear	50	500	250000	100000	0.40	Online
+West Gear	1128299	10/17/2021	South	Louisiana	New Orleans	Men's Athletic Footwear	50	575	287500	115000	0.40	Online
+West Gear	1128299	10/17/2021	South	Louisiana	New Orleans	Men's Apparel	50	350	175000	78750	0.45	Online
+West Gear	1128299	11/17/2021	South	Louisiana	New Orleans	Women's Athletic Footwear	50	500	250000	100000	0.40	Online
+West Gear	1197831	5/5/2021	West	Idaho	Boise	Men's Apparel	50	400	200000	60000	0.30	Online
+West Gear	1197831	6/4/2021	West	Idaho	Boise	Men's Athletic Footwear	50	750	375000	131250	0.35	Online
+West Gear	1197831	6/4/2021	West	Idaho	Boise	Women's Street Footwear	50	600	300000	105000	0.35	Online
+West Gear	1197831	6/4/2021	West	Idaho	Boise	Women's Athletic Footwear	50	550	275000	123750	0.45	Online
+West Gear	1197831	7/6/2021	West	Idaho	Boise	Men's Street Footwear	50	775	387500	155000	0.40	Online
+West Gear	1197831	7/6/2021	West	Idaho	Boise	Women's Street Footwear	50	925	462500	185000	0.40	Online
+West Gear	1197831	7/6/2021	West	Idaho	Boise	Women's Athletic Footwear	50	525	262500	131250	0.50	Online
+Foot Locker	1197831	8/8/2021	West	Idaho	Boise	Men's Street Footwear	50	750	375000	150000	0.40	Online
+Foot Locker	1197831	8/8/2021	West	Idaho	Boise	Women's Street Footwear	50	925	462500	185000	0.40	Online
+Foot Locker	1197831	8/8/2021	West	Idaho	Boise	Women's Athletic Footwear	50	475	237500	118750	0.50	Online
+Sports Direct	1197831	9/5/2021	West	Idaho	Boise	Women's Apparel	50	625	312500	171875	0.55	Online
+Foot Locker	1128299	3/22/2021	West	Arizona	Phoenix	Men's Athletic Footwear	50	350	175000	70000	0.40	Online
+Foot Locker	1128299	3/22/2021	West	Arizona	Phoenix	Women's Street Footwear	50	350	175000	61250	0.35	Online
+Foot Locker	1128299	3/22/2021	West	Arizona	Phoenix	Women's Athletic Footwear	50	225	112500	39375	0.35	Online
+Foot Locker	1128299	3/22/2021	West	Arizona	Phoenix	Women's Apparel	50	325	162500	40625	0.25	Online
+Foot Locker	1128299	4/23/2021	West	Arizona	Phoenix	Men's Street Footwear	50	500	250000	87500	0.35	Online
+Foot Locker	1128299	4/23/2021	West	Arizona	Phoenix	Women's Athletic Footwear	50	250	125000	43750	0.35	Online
+Foot Locker	1128299	5/24/2021	West	Arizona	Phoenix	Men's Street Footwear	50	525	262500	91875	0.35	Online
+Foot Locker	1128299	5/24/2021	West	Arizona	Phoenix	Women's Athletic Footwear	50	300	150000	52500	0.35	Online
+Foot Locker	1128299	6/23/2021	West	Arizona	Phoenix	Men's Street Footwear	50	625	312500	109375	0.35	Online
+Foot Locker	1128299	6/23/2021	West	Arizona	Phoenix	Women's Athletic Footwear	50	350	175000	61250	0.35	Online
+Foot Locker	1128299	7/22/2021	West	Arizona	Phoenix	Men's Street Footwear	50	675	337500	118125	0.35	Online
+Foot Locker	1128299	7/22/2021	West	Arizona	Phoenix	Women's Athletic Footwear	50	375	187500	65625	0.35	Online
+Foot Locker	1128299	9/24/2021	West	Arizona	Phoenix	Men's Athletic Footwear	50	575	287500	115000	0.40	Online
+Foot Locker	1128299	10/23/2021	West	Arizona	Phoenix	Men's Athletic Footwear	50	500	250000	100000	0.40	Online
+Foot Locker	1128299	11/23/2021	West	Arizona	Phoenix	Men's Athletic Footwear	50	525	262500	105000	0.40	Online
+Foot Locker	1128299	12/22/2021	West	Arizona	Phoenix	Men's Athletic Footwear	50	625	312500	125000	0.40	Online
+Kohl's	1128299	1/26/2021	West	Arizona	Phoenix	Men's Apparel	50	275	137500	41250	0.30	Online
+Kohl's	1128299	2/26/2021	West	New Mexico	Albuquerque	Men's Apparel	50	200	100000	30000	0.30	Online
+Kohl's	1128299	9/27/2021	West	New Mexico	Albuquerque	Men's Street Footwear	50	625	312500	109375	0.35	Online
+Kohl's	1128299	9/27/2021	West	New Mexico	Albuquerque	Women's Street Footwear	50	475	237500	83125	0.35	Online
+Kohl's	1128299	9/27/2021	West	New Mexico	Albuquerque	Women's Athletic Footwear	50	425	212500	74375	0.35	Online
+Kohl's	1128299	10/26/2021	West	New Mexico	Albuquerque	Men's Street Footwear	50	550	275000	96250	0.35	Online
+Kohl's	1128299	10/26/2021	West	New Mexico	Albuquerque	Women's Street Footwear	50	375	187500	65625	0.35	Online
+Kohl's	1128299	10/26/2021	West	New Mexico	Albuquerque	Women's Athletic Footwear	50	350	175000	61250	0.35	Online
+Sports Direct	1128299	3/12/2021	Southeast	Georgia	Atlanta	Men's Athletic Footwear	50	375	187500	75000	0.40	Online
+Sports Direct	1128299	3/12/2021	Southeast	Georgia	Atlanta	Women's Street Footwear	50	375	187500	65625	0.35	Online
+Sports Direct	1128299	3/12/2021	Southeast	Georgia	Atlanta	Women's Athletic Footwear	50	250	125000	50000	0.40	Online
+Sports Direct	1128299	3/12/2021	Southeast	Georgia	Atlanta	Women's Apparel	50	350	175000	43750	0.25	Online
+Sports Direct	1128299	4/13/2021	Southeast	Georgia	Atlanta	Men's Street Footwear	50	525	262500	105000	0.40	Online
+Sports Direct	1128299	4/13/2021	Southeast	Georgia	Atlanta	Women's Athletic Footwear	50	275	137500	55000	0.40	Online
+Sports Direct	1128299	5/14/2021	Southeast	Georgia	Atlanta	Men's Street Footwear	50	550	275000	110000	0.40	Online
+Sports Direct	1128299	5/14/2021	Southeast	Georgia	Atlanta	Women's Athletic Footwear	50	325	162500	65000	0.40	Online
+Sports Direct	1128299	6/13/2021	Southeast	Georgia	Atlanta	Men's Street Footwear	50	675	337500	135000	0.40	Online
+Sports Direct	1128299	6/13/2021	Southeast	Georgia	Atlanta	Women's Athletic Footwear	50	400	200000	80000	0.40	Online
+Sports Direct	1128299	7/12/2021	Southeast	Georgia	Atlanta	Men's Street Footwear	50	725	362500	145000	0.40	Online
+Sports Direct	1128299	7/12/2021	Southeast	Georgia	Atlanta	Women's Athletic Footwear	50	425	212500	85000	0.40	Online
+Sports Direct	1128299	9/14/2021	Southeast	Georgia	Atlanta	Men's Athletic Footwear	50	600	300000	120000	0.40	Online
+Sports Direct	1128299	10/13/2021	Southeast	Georgia	Atlanta	Men's Athletic Footwear	50	525	262500	105000	0.40	Online
+Foot Locker	1185732	1/9/2021	Southeast	Georgia	Atlanta	Men's Apparel	50	725	362500	126875	0.35	Online
+Foot Locker	1185732	2/7/2021	Southeast	South Carolina	Charleston	Men's Apparel	50	700	350000	122500	0.35	Online
+Foot Locker	1185732	4/6/2021	Southeast	South Carolina	Charleston	Men's Apparel	50	625	312500	109375	0.35	Online
+Foot Locker	1185732	5/5/2021	Southeast	South Carolina	Charleston	Men's Street Footwear	50	1045	522500	235125	0.45	Online
+Foot Locker	1185732	5/5/2021	Southeast	South Carolina	Charleston	Men's Athletic Footwear	50	750	375000	131250	0.35	Online
+Foot Locker	1185732	6/7/2021	Southeast	South Carolina	Charleston	Men's Athletic Footwear	50	800	400000	140000	0.35	Online
+Foot Locker	1185732	6/7/2021	Southeast	South Carolina	Charleston	Women's Street Footwear	50	775	387500	96875	0.25	Online
+Foot Locker	1185732	6/7/2021	Southeast	South Carolina	Charleston	Women's Athletic Footwear	50	750	375000	112500	0.30	Online
+Foot Locker	1185732	9/5/2021	Southeast	South Carolina	Charleston	Men's Athletic Footwear	50	825	412500	144375	0.35	Online
+Foot Locker	1185732	9/5/2021	Southeast	South Carolina	Charleston	Men's Apparel	50	700	350000	122500	0.35	Online
+Sports Direct	1185732	5/2/2021	Southeast	North Carolina	Charlotte	Men's Apparel	50	600	300000	105000	0.35	Online
+Sports Direct	1185732	6/4/2021	Southeast	North Carolina	Charlotte	Men's Street Footwear	50	950	475000	190000	0.40	Online
+Sports Direct	1185732	6/4/2021	Southeast	North Carolina	Charlotte	Women's Street Footwear	50	675	337500	135000	0.40	Online
+Sports Direct	1185732	6/4/2021	Southeast	North Carolina	Charlotte	Women's Athletic Footwear	50	650	325000	130000	0.40	Online
+Sports Direct	1185732	9/2/2021	Southeast	North Carolina	Charlotte	Men's Athletic Footwear	50	725	362500	126875	0.35	Online
+Sports Direct	1185732	10/4/2021	Southeast	North Carolina	Charlotte	Women's Apparel	50	675	337500	168750	0.50	Online
+Amazon	1185732	5/9/2021	Midwest	Ohio	Columbus	Men's Apparel	50	450	225000	78750	0.35	Online
+Amazon	1185732	6/11/2021	Midwest	Ohio	Columbus	Men's Street Footwear	50	800	400000	160000	0.40	Online
+Amazon	1185732	6/11/2021	Midwest	Ohio	Columbus	Women's Street Footwear	50	525	262500	105000	0.40	Online
+Amazon	1185732	6/11/2021	Midwest	Ohio	Columbus	Women's Athletic Footwear	50	500	250000	100000	0.40	Online
+Amazon	1185732	9/9/2021	Midwest	Ohio	Columbus	Men's Athletic Footwear	50	575	287500	100625	0.35	Online
+Amazon	1185732	1/22/2021	Midwest	Ohio	Columbus	Men's Apparel	50	200	100000	35000	0.35	Online
+Amazon	1185732	2/22/2021	Southeast	Kentucky	Louisville	Men's Apparel	50	200	100000	35000	0.35	Online
+Amazon	1185732	4/22/2021	Southeast	Kentucky	Louisville	Men's Apparel	50	125	62500	21875	0.35	Online
+Amazon	1185732	5/23/2021	Southeast	Kentucky	Louisville	Men's Street Footwear	50	520	260000	104000	0.40	Online
+Amazon	1185732	5/23/2021	Southeast	Kentucky	Louisville	Men's Apparel	50	150	75000	26250	0.35	Online
+Amazon	1185732	6/22/2021	Southeast	Kentucky	Louisville	Men's Apparel	50	200	100000	35000	0.35	Online
+Amazon	1185732	7/21/2021	Southeast	Kentucky	Louisville	Men's Street Footwear	50	600	300000	120000	0.40	Online
+Amazon	1185732	7/21/2021	Southeast	Kentucky	Louisville	Men's Apparel	50	250	125000	43750	0.35	Online
+Amazon	1185732	8/22/2021	Southeast	Kentucky	Louisville	Men's Street Footwear	50	575	287500	115000	0.40	Online
+Amazon	1185732	8/22/2021	Southeast	Kentucky	Louisville	Men's Apparel	50	225	112500	39375	0.35	Online
+Amazon	1185732	9/23/2021	Southeast	Kentucky	Louisville	Men's Street Footwear	50	525	262500	105000	0.40	Online
+Amazon	1185732	9/23/2021	Southeast	Kentucky	Louisville	Women's Apparel	50	275	137500	55000	0.40	Online
+Amazon	1185732	11/22/2021	Southeast	Kentucky	Louisville	Men's Street Footwear	50	425	212500	85000	0.40	Online
+Foot Locker	1185732	12/21/2021	Southeast	Kentucky	Louisville	Women's Athletic Footwear	50	225	112500	45000	0.40	Online
+Foot Locker	1185732	5/16/2021	South	Mississippi	Jackson	Women's Apparel	50	500	250000	125000	0.50	Online
+Walmart	1185732	7/16/2021	South	Mississippi	Jackson	Women's Street Footwear	50	525	262500	105000	0.40	Online
+Walmart	1185732	7/16/2021	South	Mississippi	Jackson	Women's Athletic Footwear	50	475	237500	95000	0.40	Online
+Walmart	1185732	8/17/2021	South	Mississippi	Jackson	Women's Street Footwear	50	525	262500	105000	0.40	Online
+Walmart	1185732	8/17/2021	South	Mississippi	Jackson	Men's Apparel	50	450	225000	78750	0.35	Online
+Walmart	1185732	9/16/2021	South	Mississippi	Jackson	Men's Street Footwear	50	725	362500	145000	0.40	Online
+Walmart	1197831	7/19/2021	South	Arkansas	Little Rock	Men's Athletic Footwear	50	525	262500	91875	0.35	Online
+Walmart	1197831	8/20/2021	South	Arkansas	Little Rock	Women's Street Footwear	50	450	225000	90000	0.40	Online
+Walmart	1197831	8/20/2021	South	Arkansas	Little Rock	Men's Apparel	50	375	187500	65625	0.35	Online
+Walmart	1197831	9/19/2021	South	Arkansas	Little Rock	Men's Street Footwear	50	650	325000	130000	0.40	Online
+West Gear	1197831	7/19/2021	South	Oklahoma	Oklahoma City	Men's Athletic Footwear	50	450	225000	78750	0.35	Online
+West Gear	1197831	8/20/2021	South	Oklahoma	Oklahoma City	Women's Street Footwear	50	375	187500	75000	0.40	Online
+West Gear	1197831	8/20/2021	South	Oklahoma	Oklahoma City	Men's Apparel	50	300	150000	52500	0.35	Online
+West Gear	1197831	9/19/2021	South	Oklahoma	Oklahoma City	Men's Street Footwear	50	575	287500	115000	0.40	Online
+Kohl's	1197831	7/12/2021	Midwest	Kansas	Wichita	Men's Athletic Footwear	50	425	212500	74375	0.35	Online
+Kohl's	1197831	8/13/2021	Midwest	Kansas	Wichita	Women's Street Footwear	50	350	175000	61250	0.35	Online
+Kohl's	1197831	8/13/2021	Midwest	Kansas	Wichita	Men's Apparel	50	275	137500	48125	0.35	Online
+Kohl's	1197831	9/12/2021	Midwest	Kansas	Wichita	Men's Street Footwear	50	550	275000	96250	0.35	Online
+Foot Locker	1185732	1/12/2021	Midwest	Kansas	Wichita	Men's Apparel	50	175	87500	30625	0.35	Online
+Foot Locker	1185732	2/12/2021	Midwest	South Dakota	Sioux Falls	Men's Apparel	50	175	87500	30625	0.35	Online
+Foot Locker	1185732	3/11/2021	Midwest	South Dakota	Sioux Falls	Men's Apparel	50	125	62500	21875	0.35	Online
+Foot Locker	1185732	4/12/2021	Midwest	South Dakota	Sioux Falls	Women's Apparel	50	225	112500	45000	0.40	Online
+Foot Locker	1185732	5/13/2021	Midwest	South Dakota	Sioux Falls	Men's Athletic Footwear	50	200	100000	30000	0.30	Online
+Foot Locker	1185732	7/11/2021	Midwest	South Dakota	Sioux Falls	Men's Street Footwear	50	550	275000	96250	0.35	Online
+Foot Locker	1185732	7/11/2021	Midwest	South Dakota	Sioux Falls	Men's Apparel	50	200	100000	35000	0.35	Online
+Foot Locker	1185732	8/12/2021	Midwest	South Dakota	Sioux Falls	Men's Street Footwear	50	525	262500	91875	0.35	Online
+Foot Locker	1185732	8/12/2021	Midwest	South Dakota	Sioux Falls	Men's Apparel	50	175	87500	30625	0.35	Online
+Foot Locker	1185732	9/13/2021	Midwest	South Dakota	Sioux Falls	Women's Apparel	50	225	112500	45000	0.40	Online
+Sports Direct	1185732	12/11/2021	Midwest	South Dakota	Sioux Falls	Men's Athletic Footwear	50	300	150000	45000	0.30	Online
+Sports Direct	1185732	12/11/2021	Midwest	South Dakota	Sioux Falls	Women's Street Footwear	50	250	125000	37500	0.30	Online
+Sports Direct	1185732	12/11/2021	Midwest	South Dakota	Sioux Falls	Women's Athletic Footwear	50	200	100000	30000	0.30	Online
+Sports Direct	1185732	4/9/2021	Midwest	North Dakota	Fargo	Women's Apparel	50	225	112500	45000	0.40	In-store
+Sports Direct	1185732	5/10/2021	Midwest	North Dakota	Fargo	Men's Apparel	50	125	62500	21875	0.35	In-store
+Sports Direct	1185732	7/8/2021	Midwest	North Dakota	Fargo	Men's Street Footwear	50	550	275000	96250	0.35	In-store
+Sports Direct	1185732	7/8/2021	Midwest	North Dakota	Fargo	Men's Apparel	50	200	100000	35000	0.35	In-store
+Sports Direct	1185732	8/9/2021	Midwest	North Dakota	Fargo	Men's Street Footwear	50	525	262500	91875	0.35	In-store
+Sports Direct	1185732	8/9/2021	Midwest	North Dakota	Fargo	Men's Apparel	50	175	87500	30625	0.35	In-store
+Sports Direct	1185732	10/9/2021	Midwest	North Dakota	Fargo	Men's Street Footwear	50	400	200000	70000	0.35	In-store
+Sports Direct	1185732	10/9/2021	Midwest	North Dakota	Fargo	Men's Apparel	50	125	62500	21875	0.35	In-store
+Foot Locker	1185732	11/9/2021	Midwest	North Dakota	Fargo	Men's Street Footwear	50	400	200000	70000	0.35	In-store
+Foot Locker	1185732	12/8/2021	Midwest	North Dakota	Fargo	Men's Athletic Footwear	50	300	150000	45000	0.30	In-store
+Foot Locker	1185732	12/8/2021	Midwest	North Dakota	Fargo	Women's Street Footwear	50	250	125000	37500	0.30	In-store
+Foot Locker	1185732	12/8/2021	Midwest	North Dakota	Fargo	Women's Athletic Footwear	50	200	100000	30000	0.30	In-store
+Foot Locker	1185732	4/6/2021	Midwest	Iowa	Des Moines	Women's Apparel	50	250	125000	50000	0.40	In-store
+Foot Locker	1185732	5/7/2021	Midwest	Iowa	Des Moines	Women's Apparel	50	275	137500	55000	0.40	In-store
+Foot Locker	1185732	7/5/2021	Midwest	Iowa	Des Moines	Men's Street Footwear	50	550	275000	82500	0.30	In-store
+Foot Locker	1185732	7/5/2021	Midwest	Iowa	Des Moines	Men's Apparel	50	200	100000	50000	0.50	In-store
+Foot Locker	1185732	8/6/2021	Midwest	Iowa	Des Moines	Men's Street Footwear	50	525	262500	78750	0.30	In-store
+Foot Locker	1185732	8/6/2021	Midwest	Iowa	Des Moines	Men's Apparel	50	175	87500	43750	0.50	In-store
+West Gear	1185732	10/6/2021	Midwest	Iowa	Des Moines	Women's Apparel	50	250	125000	50000	0.40	In-store
+West Gear	1185732	12/5/2021	Midwest	Iowa	Des Moines	Men's Athletic Footwear	50	325	162500	56875	0.35	In-store
+West Gear	1185732	12/5/2021	Midwest	Iowa	Des Moines	Women's Street Footwear	50	275	137500	41250	0.30	In-store
+West Gear	1185732	12/5/2021	Midwest	Iowa	Des Moines	Women's Athletic Footwear	50	225	112500	33750	0.30	In-store
+West Gear	1185732	4/3/2021	Midwest	Wisconsin	Milwaukee	Women's Apparel	50	225	112500	45000	0.40	In-store
+West Gear	1185732	5/4/2021	Midwest	Wisconsin	Milwaukee	Women's Apparel	50	300	150000	60000	0.40	In-store
+West Gear	1185732	7/2/2021	Midwest	Wisconsin	Milwaukee	Men's Street Footwear	50	550	275000	82500	0.30	In-store
+West Gear	1185732	7/2/2021	Midwest	Wisconsin	Milwaukee	Men's Apparel	50	200	100000	50000	0.50	In-store
+West Gear	1185732	8/3/2021	Midwest	Wisconsin	Milwaukee	Men's Street Footwear	50	525	262500	78750	0.30	In-store
+West Gear	1185732	8/3/2021	Midwest	Wisconsin	Milwaukee	Men's Apparel	50	175	87500	43750	0.50	In-store
+West Gear	1185732	10/3/2021	Midwest	Wisconsin	Milwaukee	Women's Apparel	50	250	125000	50000	0.40	In-store
+West Gear	1185732	12/2/2021	Midwest	Wisconsin	Milwaukee	Men's Athletic Footwear	50	350	175000	61250	0.35	In-store
+West Gear	1185732	12/2/2021	Midwest	Wisconsin	Milwaukee	Women's Street Footwear	50	300	150000	45000	0.30	In-store
+West Gear	1185732	12/2/2021	Midwest	Wisconsin	Milwaukee	Women's Athletic Footwear	50	250	125000	37500	0.30	In-store
+West Gear	1185732	4/10/2021	Midwest	Indiana	Indianapolis	Women's Apparel	50	275	137500	55000	0.40	In-store
+West Gear	1185732	7/9/2021	Midwest	Indiana	Indianapolis	Men's Athletic Footwear	50	300	150000	60000	0.40	In-store
+West Gear	1185732	8/10/2021	Midwest	Indiana	Indianapolis	Men's Street Footwear	50	525	262500	105000	0.40	In-store
+West Gear	1185732	8/10/2021	Midwest	Indiana	Indianapolis	Men's Apparel	50	175	87500	26250	0.30	In-store
+West Gear	1185732	10/10/2021	Midwest	Indiana	Indianapolis	Women's Apparel	50	275	137500	55000	0.40	In-store
+West Gear	1185732	12/9/2021	Midwest	Indiana	Indianapolis	Men's Athletic Footwear	50	400	200000	80000	0.40	In-store
+West Gear	1185732	12/9/2021	Midwest	Indiana	Indianapolis	Women's Street Footwear	50	350	175000	61250	0.35	In-store
+West Gear	1185732	12/9/2021	Midwest	Indiana	Indianapolis	Women's Athletic Footwear	50	300	150000	52500	0.35	In-store
+West Gear	1185732	2/17/2021	Northeast	West Virginia	Charleston	Men's Apparel	50	250	125000	50000	0.40	In-store
+West Gear	1185732	4/17/2021	Northeast	West Virginia	Charleston	Women's Apparel	50	325	162500	65000	0.40	In-store
+West Gear	1185732	7/16/2021	Northeast	West Virginia	Charleston	Women's Street Footwear	50	325	162500	65000	0.40	In-store
+West Gear	1185732	7/16/2021	Northeast	West Virginia	Charleston	Women's Athletic Footwear	50	275	137500	55000	0.40	In-store
+West Gear	1185732	8/17/2021	Northeast	West Virginia	Charleston	Men's Street Footwear	50	525	262500	105000	0.40	In-store
+West Gear	1185732	8/17/2021	Northeast	West Virginia	Charleston	Men's Apparel	50	250	125000	50000	0.40	In-store
+Foot Locker	1185732	10/17/2021	Northeast	West Virginia	Charleston	Women's Apparel	50	300	150000	60000	0.40	In-store
+West Gear	1185732	5/20/2021	Northeast	Maryland	Baltimore	Men's Street Footwear	50	470	235000	94000	0.40	In-store
+West Gear	1185732	5/20/2021	Northeast	Maryland	Baltimore	Men's Apparel	50	125	62500	18750	0.30	In-store
+West Gear	1185732	6/22/2021	Northeast	Maryland	Baltimore	Men's Street Footwear	50	500	250000	100000	0.40	In-store
+Foot Locker	1185732	6/22/2021	Northeast	Maryland	Baltimore	Men's Apparel	50	150	75000	22500	0.30	In-store
+Foot Locker	1185732	7/20/2021	Northeast	Maryland	Baltimore	Men's Street Footwear	50	525	262500	105000	0.40	In-store
+Sports Direct	1185732	7/20/2021	Northeast	Maryland	Baltimore	Men's Apparel	50	175	87500	26250	0.30	In-store
+Sports Direct	1185732	8/21/2021	Northeast	Maryland	Baltimore	Men's Street Footwear	50	500	250000	100000	0.40	In-store
+Sports Direct	1185732	8/21/2021	Northeast	Maryland	Baltimore	Men's Apparel	50	125	62500	18750	0.30	In-store
+Sports Direct	1185732	9/20/2021	Northeast	Maryland	Baltimore	Men's Street Footwear	50	425	212500	85000	0.40	In-store
+Sports Direct	1185732	9/20/2021	Northeast	Maryland	Baltimore	Men's Apparel	50	100	50000	15000	0.30	In-store
+Sports Direct	1185732	10/22/2021	Northeast	Maryland	Baltimore	Men's Athletic Footwear	50	200	100000	35000	0.35	In-store
+Sports Direct	1185732	10/22/2021	Northeast	Maryland	Baltimore	Women's Street Footwear	50	100	50000	17500	0.35	In-store
+Foot Locker	1185732	10/22/2021	Northeast	Maryland	Baltimore	Women's Athletic Footwear	50	75	37500	13125	0.35	In-store
+Foot Locker	1185732	11/21/2021	Northeast	Maryland	Baltimore	Men's Athletic Footwear	50	175	87500	30625	0.35	In-store
+Foot Locker	1185732	11/21/2021	Northeast	Maryland	Baltimore	Women's Street Footwear	50	170	85000	29750	0.35	In-store
+Foot Locker	1185732	11/21/2021	Northeast	Maryland	Baltimore	Women's Athletic Footwear	50	150	75000	26250	0.35	In-store
+Foot Locker	1185732	12/20/2021	Northeast	Maryland	Baltimore	Men's Athletic Footwear	50	250	125000	43750	0.35	In-store
+Foot Locker	1185732	12/20/2021	Northeast	Maryland	Baltimore	Women's Street Footwear	50	225	112500	39375	0.35	In-store
+Foot Locker	1185732	12/20/2021	Northeast	Maryland	Baltimore	Women's Athletic Footwear	50	175	87500	30625	0.35	In-store
+Foot Locker	1185732	1/17/2021	Northeast	Maryland	Baltimore	Men's Apparel	50	225	112500	33750	0.30	In-store
+Foot Locker	1185732	2/15/2021	Northeast	Delaware	Wilmington	Men's Apparel	50	225	112500	33750	0.30	In-store
+Foot Locker	1185732	3/13/2021	Northeast	Delaware	Wilmington	Men's Apparel	50	175	87500	26250	0.30	In-store
+Foot Locker	1185732	4/14/2021	Northeast	Delaware	Wilmington	Men's Apparel	50	150	75000	22500	0.30	In-store
+Foot Locker	1185732	5/13/2021	Northeast	Delaware	Wilmington	Men's Athletic Footwear	50	275	137500	48125	0.35	In-store
+Foot Locker	1185732	6/15/2021	Northeast	Delaware	Wilmington	Men's Athletic Footwear	50	400	200000	70000	0.35	In-store
+Foot Locker	1185732	7/13/2021	Northeast	Delaware	Wilmington	Men's Athletic Footwear	50	425	212500	74375	0.35	In-store
+Foot Locker	1185732	8/14/2021	Northeast	Delaware	Wilmington	Men's Athletic Footwear	50	425	212500	74375	0.35	In-store
+Foot Locker	1185732	9/13/2021	Northeast	Delaware	Wilmington	Men's Athletic Footwear	50	325	162500	56875	0.35	In-store
+Kohl's	1185732	5/6/2021	Northeast	New Jersey	Newark	Men's Street Footwear	50	520	260000	91000	0.35	In-store
+Kohl's	1185732	5/6/2021	Northeast	New Jersey	Newark	Men's Apparel	50	225	112500	33750	0.30	In-store
+Kohl's	1185732	6/8/2021	Northeast	New Jersey	Newark	Men's Street Footwear	50	600	300000	105000	0.35	In-store
+Kohl's	1185732	6/8/2021	Northeast	New Jersey	Newark	Men's Apparel	50	250	125000	37500	0.30	In-store
+Kohl's	1185732	7/6/2021	Northeast	New Jersey	Newark	Men's Street Footwear	50	625	312500	109375	0.35	In-store
+Kohl's	1185732	7/6/2021	Northeast	New Jersey	Newark	Men's Apparel	50	275	137500	41250	0.30	In-store
+Kohl's	1185732	8/7/2021	Northeast	New Jersey	Newark	Men's Street Footwear	50	600	300000	105000	0.35	In-store
+Kohl's	1185732	8/7/2021	Northeast	New Jersey	Newark	Men's Apparel	50	175	87500	26250	0.30	In-store
+Kohl's	1185732	9/6/2021	Northeast	New Jersey	Newark	Men's Street Footwear	50	475	237500	83125	0.35	In-store
+Kohl's	1185732	9/6/2021	Northeast	New Jersey	Newark	Men's Apparel	50	150	75000	22500	0.30	In-store
+Kohl's	1185732	10/8/2021	Northeast	New Jersey	Newark	Men's Athletic Footwear	50	250	125000	43750	0.35	In-store
+Kohl's	1185732	10/8/2021	Northeast	New Jersey	Newark	Women's Street Footwear	50	150	75000	30000	0.40	In-store
+Kohl's	1185732	10/8/2021	Northeast	New Jersey	Newark	Women's Athletic Footwear	50	125	62500	25000	0.40	In-store
+Sports Direct	1185732	11/7/2021	Northeast	New Jersey	Newark	Men's Athletic Footwear	50	275	137500	48125	0.35	In-store
+Sports Direct	1185732	11/7/2021	Northeast	New Jersey	Newark	Women's Street Footwear	50	270	135000	54000	0.40	In-store
+Sports Direct	1185732	11/7/2021	Northeast	New Jersey	Newark	Women's Athletic Footwear	50	250	125000	50000	0.40	In-store
+Sports Direct	1185732	12/6/2021	Northeast	New Jersey	Newark	Men's Athletic Footwear	50	350	175000	61250	0.35	In-store
+Sports Direct	1185732	12/6/2021	Northeast	New Jersey	Newark	Women's Street Footwear	50	325	162500	65000	0.40	In-store
+Sports Direct	1185732	12/6/2021	Northeast	New Jersey	Newark	Women's Athletic Footwear	50	275	137500	55000	0.40	In-store
+Sports Direct	1185732	1/7/2021	Northeast	New Jersey	Newark	Men's Apparel	50	200	100000	30000	0.30	In-store
+Sports Direct	1185732	2/5/2021	Northeast	Connecticut	Hartford	Men's Apparel	50	200	100000	30000	0.30	In-store
+Sports Direct	1185732	3/3/2021	Northeast	Connecticut	Hartford	Men's Apparel	50	150	75000	22500	0.30	In-store
+Sports Direct	1185732	4/4/2021	Northeast	Connecticut	Hartford	Men's Apparel	50	125	62500	18750	0.30	In-store
+Sports Direct	1185732	5/3/2021	Northeast	Connecticut	Hartford	Men's Athletic Footwear	50	250	125000	50000	0.40	In-store
+Sports Direct	1185732	6/5/2021	Northeast	Connecticut	Hartford	Men's Athletic Footwear	50	375	187500	75000	0.40	In-store
+Sports Direct	1185732	7/3/2021	Northeast	Connecticut	Hartford	Men's Athletic Footwear	50	400	200000	80000	0.40	In-store
+Sports Direct	1185732	8/4/2021	Northeast	Connecticut	Hartford	Men's Athletic Footwear	50	400	200000	80000	0.40	In-store
+Sports Direct	1185732	9/3/2021	Northeast	Connecticut	Hartford	Men's Athletic Footwear	50	300	150000	60000	0.40	In-store
+Foot Locker	1185732	5/6/2021	Northeast	Rhode Island	Providence	Men's Street Footwear	50	470	235000	82250	0.35	In-store
+Foot Locker	1185732	5/6/2021	Northeast	Rhode Island	Providence	Men's Apparel	50	175	87500	26250	0.30	In-store
+Foot Locker	1185732	6/8/2021	Northeast	Rhode Island	Providence	Men's Street Footwear	50	550	275000	96250	0.35	In-store
+Foot Locker	1185732	6/8/2021	Northeast	Rhode Island	Providence	Men's Apparel	50	200	100000	30000	0.30	In-store
+Foot Locker	1185732	7/6/2021	Northeast	Rhode Island	Providence	Men's Street Footwear	50	575	287500	100625	0.35	In-store
+Foot Locker	1185732	7/6/2021	Northeast	Rhode Island	Providence	Men's Apparel	50	225	112500	33750	0.30	In-store
+Foot Locker	1185732	8/7/2021	Northeast	Rhode Island	Providence	Men's Street Footwear	50	550	275000	96250	0.35	In-store
+Foot Locker	1185732	8/7/2021	Northeast	Rhode Island	Providence	Men's Apparel	50	125	62500	18750	0.30	In-store
+Foot Locker	1185732	9/6/2021	Northeast	Rhode Island	Providence	Men's Street Footwear	50	425	212500	74375	0.35	In-store
+Foot Locker	1185732	9/6/2021	Northeast	Rhode Island	Providence	Men's Apparel	50	100	50000	15000	0.30	In-store
+Foot Locker	1185732	10/8/2021	Northeast	Rhode Island	Providence	Men's Athletic Footwear	50	200	100000	35000	0.35	In-store
+Foot Locker	1185732	10/8/2021	Northeast	Rhode Island	Providence	Women's Street Footwear	50	100	50000	20000	0.40	In-store
+Foot Locker	1185732	10/8/2021	Northeast	Rhode Island	Providence	Women's Athletic Footwear	50	75	37500	15000	0.40	In-store
+Sports Direct	1185732	11/7/2021	Northeast	Rhode Island	Providence	Men's Athletic Footwear	50	225	112500	39375	0.35	In-store
+Sports Direct	1185732	11/7/2021	Northeast	Rhode Island	Providence	Women's Street Footwear	50	220	110000	44000	0.40	In-store
+Sports Direct	1185732	11/7/2021	Northeast	Rhode Island	Providence	Women's Athletic Footwear	50	200	100000	40000	0.40	In-store
+Sports Direct	1185732	12/6/2021	Northeast	Rhode Island	Providence	Men's Athletic Footwear	50	300	150000	52500	0.35	In-store
+Sports Direct	1185732	12/6/2021	Northeast	Rhode Island	Providence	Women's Street Footwear	50	275	137500	55000	0.40	In-store
+Sports Direct	1185732	12/6/2021	Northeast	Rhode Island	Providence	Women's Athletic Footwear	50	225	112500	45000	0.40	In-store
+Sports Direct	1185732	1/17/2021	Northeast	Rhode Island	Providence	Men's Apparel	50	150	75000	18750	0.25	In-store
+Sports Direct	1185732	2/15/2021	Northeast	Massachusetts	Boston	Men's Apparel	50	150	75000	18750	0.25	In-store
+Sports Direct	1185732	3/13/2021	Northeast	Massachusetts	Boston	Men's Apparel	50	100	50000	12500	0.25	In-store
+Sports Direct	1185732	4/14/2021	Northeast	Massachusetts	Boston	Men's Apparel	50	125	62500	15625	0.25	In-store
+Sports Direct	1185732	5/13/2021	Northeast	Massachusetts	Boston	Men's Athletic Footwear	50	200	100000	30000	0.30	In-store
+Sports Direct	1185732	6/15/2021	Northeast	Massachusetts	Boston	Men's Athletic Footwear	50	325	162500	48750	0.30	In-store
+Sports Direct	1185732	7/13/2021	Northeast	Massachusetts	Boston	Men's Athletic Footwear	50	350	175000	52500	0.30	In-store
+Sports Direct	1185732	8/14/2021	Northeast	Massachusetts	Boston	Men's Athletic Footwear	50	350	175000	52500	0.30	In-store
+Sports Direct	1185732	9/13/2021	Northeast	Massachusetts	Boston	Men's Athletic Footwear	50	250	125000	37500	0.30	In-store
+Amazon	1185732	5/10/2021	Northeast	Vermont	Burlington	Women's Street Footwear	50	300	150000	52500	0.35	In-store
+Amazon	1185732	5/10/2021	Northeast	Vermont	Burlington	Women's Athletic Footwear	50	250	125000	43750	0.35	In-store
+Amazon	1185732	6/12/2021	Northeast	Vermont	Burlington	Women's Street Footwear	50	325	162500	56875	0.35	In-store
+Amazon	1185732	6/12/2021	Northeast	Vermont	Burlington	Women's Athletic Footwear	50	300	150000	52500	0.35	In-store
+Amazon	1185732	7/10/2021	Northeast	Vermont	Burlington	Women's Street Footwear	50	350	175000	61250	0.35	In-store
+Amazon	1185732	7/10/2021	Northeast	Vermont	Burlington	Women's Athletic Footwear	50	300	150000	52500	0.35	In-store
+Amazon	1185732	8/11/2021	Northeast	Vermont	Burlington	Women's Street Footwear	50	350	175000	61250	0.35	In-store
+Amazon	1185732	8/11/2021	Northeast	Vermont	Burlington	Women's Athletic Footwear	50	250	125000	43750	0.35	In-store
+Amazon	1185732	9/10/2021	Northeast	Vermont	Burlington	Women's Street Footwear	50	225	112500	39375	0.35	In-store
+Amazon	1185732	9/10/2021	Northeast	Vermont	Burlington	Women's Athletic Footwear	50	200	100000	35000	0.35	In-store
+Amazon	1185732	1/21/2021	Northeast	Vermont	Burlington	Men's Street Footwear	50	525	262500	105000	0.40	In-store
+Amazon	1185732	1/21/2021	Northeast	Vermont	Burlington	Men's Athletic Footwear	50	325	162500	65000	0.40	In-store
+Amazon	1185732	1/21/2021	Northeast	Vermont	Burlington	Women's Apparel	50	325	162500	56875	0.35	In-store
+Amazon	1185732	2/19/2021	Northeast	Vermont	Burlington	Men's Street Footwear	50	600	300000	120000	0.40	In-store
+Amazon	1185732	2/19/2021	Northeast	Vermont	Burlington	Men's Athletic Footwear	50	250	125000	50000	0.40	In-store
+Amazon	1185732	2/19/2021	Northeast	New Hampshire	Manchester	Women's Apparel	50	375	187500	65625	0.35	In-store
+Amazon	1185732	3/17/2021	Northeast	New Hampshire	Manchester	Men's Street Footwear	50	570	285000	114000	0.40	In-store
+Amazon	1185732	3/17/2021	Northeast	New Hampshire	Manchester	Men's Athletic Footwear	50	275	137500	55000	0.40	In-store
+Amazon	1185732	3/17/2021	Northeast	New Hampshire	Manchester	Women's Apparel	50	300	150000	52500	0.35	In-store
+Amazon	1185732	4/18/2021	Northeast	New Hampshire	Manchester	Men's Street Footwear	50	550	275000	110000	0.40	In-store
+Amazon	1185732	4/18/2021	Northeast	New Hampshire	Manchester	Men's Athletic Footwear	50	250	125000	50000	0.40	In-store
+Amazon	1185732	4/18/2021	Northeast	New Hampshire	Manchester	Women's Apparel	50	325	162500	56875	0.35	In-store
+Foot Locker	1185732	1/24/2021	Northeast	New Hampshire	Manchester	Women's Athletic Footwear	50	150	75000	18750	0.25	Outlet
+Foot Locker	1185732	2/7/2020	Northeast	New York	New York	Men's Athletic Footwear	50	259	12950	5180	0.40	Online
+Walmart	1185732	4/20/2020	Northeast	New York	New York	Men's Athletic Footwear	50	270	13500	5940	0.44	Online
+Walmart	1185732	4/30/2020	Northeast	New York	New York	Women's Athletic Footwear	50	252	12600	6174	0.49	Online
+Walmart	1197831	9/10/2020	South	Texas	Houston	Women's Apparel	50	213	10650	6816	0.64	Online
+West Gear	1128299	11/11/2020	West	California	San Francisco	Men's Apparel	50	140	7000	4270	0.61	Online
+West Gear	1128299	2/1/2021	West	California	San Francisco	Women's Street Footwear	50	182	9100	3822	0.42	Online
+West Gear	1128299	2/7/2021	West	California	San Francisco	Women's Street Footwear	50	210	10500	4200	0.40	Online
+Kohl's	1189833	5/8/2021	West	California	Los Angeles	Men's Athletic Footwear	50	247	12350	4570	0.37	Online
+Kohl's	1189833	5/26/2021	West	California	Los Angeles	Men's Athletic Footwear	50	243	12150	4617	0.38	Online
+Foot Locker	1185732	6/10/2021	Midwest	Illinois	Chicago	Men's Apparel	50	44	2200	1034	0.47	Online
+Foot Locker	1185732	7/17/2021	Midwest	Illinois	Chicago	Women's Apparel	50	94	4700	3055	0.65	Online
+Foot Locker	1185732	12/13/2021	Northeast	Pennsylvania	Philadelphia	Men's Apparel	50	36	1800	810	0.45	Online
+West Gear	1128299	1/15/2020	West	Nevada	Las Vegas	Men's Athletic Footwear	50	120	6000	2400	0.40	Online
+West Gear	1128299	1/17/2020	West	Nevada	Las Vegas	Women's Athletic Footwear	50	84	4200	1974	0.47	Online
+Foot Locker	1185732	8/10/2020	Southeast	Florida	Miami	Men's Apparel	50	195	9750	4875	0.50	Online
+West Gear	1185732	9/13/2020	Southeast	Florida	Miami	Women's Street Footwear	50	215	10750	3978	0.37	Online
+Sports Direct	1185732	9/27/2020	Southeast	Florida	Miami	Men's Apparel	50	210	10500	5250	0.50	Online
+Foot Locker	1185732	11/14/2020	Midwest	Minnesota	Minneapolis	Men's Apparel	50	20	1000	410	0.41	Online
+Foot Locker	1185732	12/22/2020	Midwest	Minnesota	Minneapolis	Men's Street Footwear	50	124	6200	3100	0.50	Online
+Kohl's	1189833	2/18/2021	Midwest	Montana	Billings	Men's Apparel	50	100	5000	3650	0.73	Online
+Sports Direct	1197831	5/11/2021	South	Tennessee	Knoxville	Women's Street Footwear	50	174	8700	4872	0.56	Online
+Sports Direct	1197831	5/19/2021	South	Tennessee	Knoxville	Men's Apparel	50	140	7000	3500	0.50	Online
+Sports Direct	1197831	9/5/2021	South	Alabama	Birmingham	Women's Apparel	50	245	12250	8820	0.72	Online
+Sports Direct	1197831	9/16/2021	South	Alabama	Birmingham	Men's Apparel	50	123	6150	3629	0.59	Online
+Sports Direct	1197831	9/19/2021	South	Alabama	Birmingham	Men's Athletic Footwear	50	144	7200	4536	0.63	Online
+Amazon	1185732	11/15/2021	Northeast	Maine	Portland	Men's Apparel	50	53	2650	954	0.36	Online
+Amazon	1185732	12/21/2021	Northeast	Maine	Portland	Men's Street Footwear	50	147	7350	3381	0.46	Online
+Amazon	1185732	10/19/2021	Northeast	Maine	Portland	Women's Athletic Footwear	50	26	1300	520	0.40	Online
+Amazon	1185732	4/21/2021	West	Alaska	Anchorage	Men's Athletic Footwear	50	61	3050	1525	0.50	Online
+Amazon	1185732	9/20/2021	West	Alaska	Anchorage	Women's Street Footwear	50	59	2950	1121	0.38	Online
+Amazon	1185732	9/20/2021	West	Alaska	Anchorage	Women's Athletic Footwear	50	56	2800	1092	0.39	Online
+Foot Locker	1128299	3/9/2021	West	Hawaii	Honolulu	Women's Apparel	50	85	4250	2338	0.55	Online
+Walmart	1128299	10/10/2021	West	Hawaii	Honolulu	Women's Athletic Footwear	50	83	4150	1536	0.37	Online
+Walmart	1128299	11/10/2021	West	Hawaii	Honolulu	Women's Street Footwear	50	123	6150	2460	0.40	Online
+West Gear	1185732	2/10/2021	Northeast	New York	Albany	Men's Apparel	50	154	7700	3542	0.46	Online
+West Gear	1185732	4/9/2021	Northeast	New York	Albany	Men's Apparel	50	124	6200	2914	0.47	Online
+West Gear	1185732	5/8/2021	Northeast	New York	Albany	Men's Street Footwear	50	261	13050	7830	0.60	Online
+West Gear	1185732	9/8/2021	Northeast	New York	Albany	Men's Street Footwear	50	238	11900	7021	0.59	Online
+Kohl's	1185732	6/12/2021	West	Wyoming	Cheyenne	Women's Apparel	50	163	8150	3016	0.37	Online
+Kohl's	1185732	10/12/2021	West	Wyoming	Cheyenne	Men's Street Footwear	50	202	10100	6464	0.64	Online
+Foot Locker	1128299	5/25/2021	Southeast	Virginia	Richmond	Women's Street Footwear	50	88	4400	2200	0.50	Online
+Sports Direct	1185732	8/16/2021	Midwest	Michigan	Detroit	Men's Athletic Footwear	50	195	9750	4875	0.50	Online
+West Gear	1128299	5/25/2021	West	Oregon	Portland	Men's Athletic Footwear	50	105	5250	2415	0.46	Online
+West Gear	1128299	5/25/2021	West	Oregon	Portland	Women's Street Footwear	50	95	4750	2375	0.50	Online
+West Gear	1128299	10/24/2021	West	Oregon	Portland	Men's Athletic Footwear	50	142	7100	3266	0.46	Online
+West Gear	1128299	3/16/2021	South	Louisiana	New Orleans	Women's Athletic Footwear	50	84	4200	2310	0.55	Online
+West Gear	1128299	10/17/2021	South	Louisiana	New Orleans	Women's Apparel	50	108	5400	2538	0.47	Online
+Sports Direct	1197831	9/5/2021	West	Idaho	Boise	Men's Street Footwear	50	176	8800	4400	0.50	Online
+Sports Direct	1197831	9/5/2021	West	Idaho	Boise	Men's Athletic Footwear	50	188	9400	4888	0.52	Online
+Sports Direct	1197831	9/5/2021	West	Idaho	Boise	Men's Apparel	50	104	5200	2392	0.46	Online
+Foot Locker	1197831	12/4/2021	West	Idaho	Boise	Men's Apparel	50	133	6650	3259	0.49	Online
+Foot Locker	1128299	4/23/2021	West	Arizona	Phoenix	Women's Street Footwear	50	102	5100	2550	0.50	Online
+Foot Locker	1128299	4/23/2021	West	Arizona	Phoenix	Men's Apparel	50	39	1950	819	0.42	Online
+Foot Locker	1128299	5/24/2021	West	Arizona	Phoenix	Women's Street Footwear	50	120	6000	2820	0.47	Online
+Foot Locker	1128299	7/22/2021	West	Arizona	Phoenix	Men's Athletic Footwear	50	142	7100	3621	0.51	Online
+Foot Locker	1128299	8/23/2021	West	Arizona	Phoenix	Men's Street Footwear	50	163	8150	4075	0.50	Online
+Kohl's	1128299	3/25/2021	West	New Mexico	Albuquerque	Women's Athletic Footwear	50	83	4150	1909	0.46	Online
+Kohl's	1128299	3/25/2021	West	New Mexico	Albuquerque	Women's Apparel	50	98	4900	1862	0.38	Online
+Kohl's	1128299	10/26/2021	West	New Mexico	Albuquerque	Men's Athletic Footwear	50	149	7450	3949	0.53	Online
+Sports Direct	1128299	4/13/2021	Southeast	Georgia	Atlanta	Women's Street Footwear	50	94	4700	2350	0.50	Online
+Sports Direct	1128299	5/14/2021	Southeast	Georgia	Atlanta	Men's Apparel	50	56	2800	1344	0.48	Online
+Sports Direct	1128299	7/12/2021	Southeast	Georgia	Atlanta	Women's Street Footwear	50	137	6850	3425	0.50	Online
+Sports Direct	1128299	10/13/2021	Southeast	Georgia	Atlanta	Men's Apparel	50	90	4500	2070	0.46	Online
+Sports Direct	1128299	12/12/2021	Southeast	Georgia	Atlanta	Men's Street Footwear	50	203	10150	5583	0.55	Online
+Foot Locker	1185732	8/6/2021	Southeast	South Carolina	Charleston	Women's Street Footwear	50	231	11550	4620	0.40	Online
+Foot Locker	1185732	10/7/2021	Southeast	South Carolina	Charleston	Men's Street Footwear	50	244	12200	7320	0.60	Online
+Foot Locker	1185732	11/6/2021	Southeast	South Carolina	Charleston	Men's Street Footwear	50	278	13900	7923	0.57	Online
+Amazon	1185732	8/10/2021	Midwest	Ohio	Columbus	Men's Apparel	50	135	6750	3308	0.49	Online
+Amazon	1185732	9/9/2021	Midwest	Ohio	Columbus	Men's Street Footwear	50	225	11250	6075	0.54	Online
+Amazon	1185732	7/21/2021	Southeast	Kentucky	Louisville	Women's Apparel	50	115	5750	3105	0.54	Online
+Walmart	1185732	8/17/2021	South	Mississippi	Jackson	Men's Athletic Footwear	50	168	8400	4032	0.48	Online
+Walmart	1197831	7/19/2021	South	Arkansas	Little Rock	Men's Street Footwear	50	233	11650	5825	0.50	Online
+Walmart	1197831	8/20/2021	South	Arkansas	Little Rock	Men's Athletic Footwear	50	152	7600	3648	0.48	Online
+Walmart	1197831	8/20/2021	South	Arkansas	Little Rock	Women's Apparel	50	143	7150	3718	0.52	Online
+West Gear	1197831	7/19/2021	South	Oklahoma	Oklahoma City	Men's Street Footwear	50	182	9100	4732	0.52	Online
+West Gear	1197831	8/20/2021	South	Oklahoma	Oklahoma City	Women's Apparel	50	124	6200	3224	0.52	Online
+Foot Locker	1185732	6/12/2021	Midwest	South Dakota	Sioux Falls	Women's Apparel	50	94	4700	2491	0.53	Online
+West Gear	1185732	7/16/2021	Northeast	West Virginia	Charleston	Men's Athletic Footwear	50	116	5800	3074	0.53	Online
+West Gear	1185732	12/16/2021	Northeast	West Virginia	Charleston	Women's Street Footwear	50	112	5600	2968	0.53	Online
+Foot Locker	1185732	5/13/2021	Northeast	Delaware	Wilmington	Men's Apparel	50	74	3700	1554	0.42	Online
+Foot Locker	1185732	6/15/2021	Northeast	Delaware	Wilmington	Men's Apparel	50	75	3750	1500	0.40	Online
+Foot Locker	1185732	8/14/2021	Northeast	Delaware	Wilmington	Men's Street Footwear	50	163	8150	3994	0.49	Online
+Foot Locker	1185732	8/14/2021	Northeast	Delaware	Wilmington	Men's Apparel	50	63	3150	1418	0.45	Online
+Foot Locker	1185732	9/13/2021	Northeast	Delaware	Wilmington	Men's Street Footwear	50	142	7100	3479	0.49	Online
+Foot Locker	1185732	9/13/2021	Northeast	Delaware	Wilmington	Men's Apparel	50	60	3000	1320	0.44	Online
+Foot Locker	1185732	10/15/2021	Northeast	Delaware	Wilmington	Women's Street Footwear	50	52	2600	1430	0.55	Online
+Kohl's	1185732	12/13/2021	Northeast	Delaware	Wilmington	Men's Athletic Footwear	50	100	5000	2400	0.48	Online
+Kohl's	1185732	12/13/2021	Northeast	Delaware	Wilmington	Women's Street Footwear	50	109	5450	2943	0.54	Online
+Kohl's	1185732	6/8/2021	Northeast	New Jersey	Newark	Women's Apparel	50	120	6000	3000	0.50	Online
+Kohl's	1185732	9/6/2021	Northeast	New Jersey	Newark	Women's Apparel	50	73	3650	1935	0.53	Online
+Sports Direct	1185732	5/3/2021	Northeast	Connecticut	Hartford	Men's Apparel	50	70	3500	1540	0.44	Online
+Sports Direct	1185732	6/5/2021	Northeast	Connecticut	Hartford	Men's Street Footwear	50	175	8750	4813	0.55	Online
+Sports Direct	1185732	9/3/2021	Northeast	Connecticut	Hartford	Men's Apparel	50	51	2550	1071	0.42	Online
+Sports Direct	1185732	10/5/2021	Northeast	Connecticut	Hartford	Women's Athletic Footwear	50	38	1900	760	0.40	Online
+Foot Locker	1185732	11/4/2021	Northeast	Connecticut	Hartford	Women's Athletic Footwear	50	80	4000	1680	0.42	Online
+Foot Locker	1185732	12/3/2021	Northeast	Connecticut	Hartford	Women's Street Footwear	50	88	4400	1980	0.45	Online
+Foot Locker	1185732	7/6/2021	Northeast	Rhode Island	Providence	Women's Apparel	50	116	5800	2900	0.50	Online
+Sports Direct	1185732	5/13/2021	Northeast	Massachusetts	Boston	Men's Apparel	50	54	2700	1026	0.38	Online
+Sports Direct	1185732	8/14/2021	Northeast	Massachusetts	Boston	Men's Street Footwear	50	161	8050	3542	0.44	Online
+Sports Direct	1185732	8/14/2021	Northeast	Massachusetts	Boston	Men's Apparel	50	44	2200	814	0.37	Online
+Amazon	1185732	11/14/2021	Northeast	Massachusetts	Boston	Women's Street Footwear	50	83	4150	1494	0.36	Online
+Amazon	1185732	9/10/2021	Northeast	Vermont	Burlington	Men's Athletic Footwear	50	85	4250	2550	0.60	Online
+Foot Locker	1185732	1/24/2021	Northeast	New Hampshire	Manchester	Men's Athletic Footwear	50	84	4200	1974	0.47	Online
+Walmart	1185732	4/26/2020	Northeast	New York	New York	Women's Apparel	50	330	16500	4620	0.28	Outlet
+West Gear	1128299	1/7/2021	West	California	San Francisco	Men's Athletic Footwear	50	256	12800	3840	0.30	Outlet
+West Gear	1128299	2/3/2021	West	California	San Francisco	Men's Apparel	50	221	11050	5194	0.47	Outlet
+West Gear	1128299	2/16/2021	West	California	San Francisco	Women's Apparel	50	256	12800	2176	0.17	Outlet
+Sports Direct	1197831	10/13/2021	South	Texas	Dallas	Women's Athletic Footwear	50	160	8000	4160	0.52	Outlet
+Foot Locker	1185732	12/1/2021	Northeast	Pennsylvania	Philadelphia	Men's Apparel	50	64	3200	1280	0.40	Outlet
+Foot Locker	1185732	12/2/2021	Northeast	Pennsylvania	Philadelphia	Women's Apparel	50	116	5800	2088	0.36	Outlet
+West Gear	1128299	2/17/2020	West	Nevada	Las Vegas	Men's Apparel	50	152	7600	4484	0.59	Outlet
+West Gear	1128299	2/26/2020	West	Nevada	Las Vegas	Men's Athletic Footwear	50	193	9650	2413	0.25	Outlet
+West Gear	1128299	3/10/2020	West	Nevada	Las Vegas	Men's Athletic Footwear	50	209	10450	2613	0.25	Outlet
+Walmart	1128299	6/17/2021	Southeast	Florida	Orlando	Men's Street Footwear	50	272	13600	4352	0.32	Outlet
+West Gear	1128299	8/24/2021	West	Oregon	Portland	Women's Street Footwear	50	215	10750	4300	0.40	Outlet
+West Gear	1128299	8/24/2021	West	Oregon	Portland	Women's Athletic Footwear	50	128	6400	2432	0.38	Outlet
+West Gear	1128299	11/24/2021	West	Oregon	Portland	Men's Apparel	50	145	7250	3335	0.46	Outlet
+West Gear	1128299	8/17/2021	South	Louisiana	New Orleans	Women's Street Footwear	50	217	10850	4557	0.42	Outlet
+Kohl's	1128299	6/26/2021	West	New Mexico	Albuquerque	Women's Apparel	50	192	9600	2688	0.28	Outlet
+Kohl's	1128299	8/26/2021	West	New Mexico	Albuquerque	Women's Apparel	50	153	7650	2448	0.32	Outlet
+Sports Direct	1128299	8/13/2021	Southeast	Georgia	Atlanta	Women's Apparel	50	128	6400	1856	0.29	Outlet
+Walmart	1197831	7/19/2021	South	Arkansas	Little Rock	Women's Apparel	50	198	9900	4554	0.46	Outlet
+West Gear	1197831	12/19/2021	South	Arkansas	Little Rock	Men's Apparel	50	132	6600	2640	0.40	Outlet
+Sports Direct	1185732	10/5/2021	Northeast	Connecticut	Hartford	Men's Apparel	50	45	2250	743	0.33	Outlet
+Amazon	1185732	11/14/2021	Northeast	Massachusetts	Boston	Men's Apparel	50	78	3900	1248	0.32	Outlet
+Amazon	1185732	11/11/2021	Northeast	Vermont	Burlington	Men's Apparel	50	91	4550	1775	0.39	Outlet
+Amazon	1185732	6/19/2021	Northeast	New Hampshire	Manchester	Women's Apparel	50	162	8100	3402	0.42	Outlet
+Foot Locker	1185732	10/19/2021	Northeast	New Hampshire	Manchester	Men's Apparel	50	58	2900	928	0.32	Outlet
+Foot Locker	1185732	12/17/2021	Northeast	New Hampshire	Manchester	Men's Apparel	50	123	6150	2276	0.37	Outlet
+Foot Locker	1185732	1/24/2021	Northeast	New Hampshire	Manchester	Men's Apparel	50	64	3200	896	0.28	Outlet
